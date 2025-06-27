@@ -10,11 +10,6 @@ Welcome to my **Python** repo, where I store all my Python code as I grow my cod
 ## Why Python? 🐾
 Python’s clean and powerful, perfect for coding and cybersecurity . This repo is my lab to experiment and learn! 🔍
 
-## What I Know 📚
-- Comments & Modules (rocking `pip`! 🛠️)
-- Variables & Data Types (strings, integers, and more! 📊)
-- Strings (slicing and formatting like a champ! ✂️)
-
 ## What’s Next? 🌟
 More projects and cleaner code as I dive deeper into Python! Watch this space. 😄
 
