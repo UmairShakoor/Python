@@ -3,11 +3,11 @@
 import os # Import whole OS so that python can read it
 
 # Which directory (Path) of you want to print data (e.g, Current Directory)
-directory = '.'
+directory = input('\nDirectory: ')
 
 try:
     contents = os.listdir(directory)
-    print(f"Contents of '{directory}':")
+    print(directory)
 
     for item in contents:
      print(item)
