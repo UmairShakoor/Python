@@ -22,3 +22,5 @@ print(countE)
 a = "Umair is a good boy"
 print(a.replace('good', 'bad')) # .replace() replaces a shortString with a given shortString
 
+# .replace(' ','') removes all white spaces from starting , ending & inside the string
+# .strip() removes all white spaces from starting & ending of string
