@@ -1,0 +1,16 @@
+# Write a python function to remove a given word from a list ad strip it at the same time
+
+def remove_word(list, word):
+    l = []
+
+    if not(word in list):
+        print(f'{word} Not Found')
+
+    else:
+        for item in list:
+            if item != word:
+                n.append(item.strip(word))
+
+list = ['Hello', 'World', 'list', 'word']
+word = 'word'
+remove_word(list, word)
