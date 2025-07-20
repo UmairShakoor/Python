@@ -16,3 +16,4 @@ if age.isdigit():
 else:
     print('Invalid Age, Age must be an integer')
 
+# .isalnum() is a function to check either a string just contains of alphabets or numbers
