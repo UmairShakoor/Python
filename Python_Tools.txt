@@ -1,0 +1,17 @@
+1. pip : `apt install python3-pip`
+
+2. pyjokes : `apt install python3-pyjokes`
+
+3. venv : Virtual Environement to install external modules using pip
+
+`apt install python3-venv`
+`python3 -m venv python3_venv`
+`source python3_venv/bin/activate`
+`deactivate`
+
+4. cowsay : `pip install cowsay`
+
+5. colorama : `pip install colorama`
+
+`from colorama import Fore, Style, init`
+ `init(autoreset=True)` {Initialize colorama for Windows compatibility}
